@@ -1,0 +1,37 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "Neela nilave",
+      "url": "https://pbs.twimg.com/media/F4itsg5WMAAjITx.jpg:large",
+      "embededLink": "https://www.youtube.com/embed/nYEoxne_20Y"
+    },
+    {
+      "id": "2",
+      "caption": "Enna Sona",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/7e/11/18/7e1118a5-7211-e729-9785-158a5cefce3d/886446300221.jpg/1200x1200bf-60.jpg",
+      "embededLink": "https://www.youtube.com/embed/mrdRHsIkK_c"
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "songs",
+      "allVideos": [],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "Neela nilave",
+      "embededLink": "https://www.youtube.com/embed/nYEoxne_20Y",
+      "timestamp": "01/2024, 01:37:21 PM",
+      "id": 1
+    },
+    {
+      "caption": "Enna Sona",
+      "embededLink": "https://www.youtube.com/embed/mrdRHsIkK_c",
+      "timestamp": "01/2024, 12:02:58 PM",
+      "id": 2
+    }
+  ]
+}
