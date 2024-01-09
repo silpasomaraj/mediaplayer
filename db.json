@@ -1,11 +1,6 @@
 {
   "videos": [
-    {
-      "id": "1",
-      "caption": "Neela nilave",
-      "url": "https://pbs.twimg.com/media/F4itsg5WMAAjITx.jpg:large",
-      "embededLink": "https://www.youtube.com/embed/nYEoxne_20Y"
-    },
+    
     {
       "id": "2",
       "caption": "Enna Sona",
